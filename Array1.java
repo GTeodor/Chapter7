@@ -8,5 +8,6 @@ public class Array1 {
                 smallestNumber = array[i];
         }
         return smallestNumber;
+        // Adding a comment
     }
 }
